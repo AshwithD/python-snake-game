@@ -15,7 +15,7 @@ Features
 
  Installation
 1. Clone the repository:
-    git clone https://github.com/your-username/python-snake-game.git
+    git clone https://github.com/AshwithD/python-snake-game.git
 
 2. Navigate to the directory:
     cd python-snake-game
